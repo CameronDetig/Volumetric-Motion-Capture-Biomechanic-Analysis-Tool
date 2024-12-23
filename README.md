@@ -6,6 +6,7 @@ Mentored by Dr. Zing Yu.
 Utilizes Christopher Gearhart's ICP (Iterative Closest Point) implementation. https://github.com/patmo141/object_alignment
 
 Link to demonstration video: https://vimeo.com/579904746?share=copy
+Link to paper: https://par.nsf.gov/servlets/purl/10423954
 
 ![4dviews](https://github.com/user-attachments/assets/4f3906ae-fd87-4329-89d0-6a57a761a1e7)
 ![Diagram](https://github.com/user-attachments/assets/ec121938-9bc7-416d-9144-9248338274be)
